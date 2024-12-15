@@ -1,0 +1,20 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My Page</title>
+  </head>
+  <body>
+  helloe my name is raid  
+    <h1>Hello, World! </h1>
+    <h1>Hello, World! </h1>
+    <h2>Hello, World! </h2>
+    <h3>Hello, World! </h3>
+    <img src="image.png" alt="Sample Image" />
+    yes it is 
+    <img src="image.png" alt="Sample Image" />
+    
+    
+    
+
+  </body>
+</html>
